@@ -9,6 +9,14 @@ Optional Features:
 - Options panel for user
 - Sound Fx
 
+1) hosting
+2) domain
+3) mobile zoom
+done - 4) test on github ~
+done - 5) fix two spaces in the code [indent]
+done - 6) mobile fix finish game
+
+https://codepen.io/bfa/pen/ggGYeE
 */
 
 // 0. DECLARE VARS
