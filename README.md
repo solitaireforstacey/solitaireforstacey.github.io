@@ -1,2 +1,2 @@
 # solitaireforstacey.github.io
-test run
+v3 uploaded with better formatting of the JS
